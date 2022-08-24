@@ -1,4 +1,4 @@
-# CryptoTrader by [Haschek Solutions](https://haschek.solutions)
+# CryptoTrader by [VICKY_KE]
 
 # What does it do?
 The heart of this repo is the ```coinbase-pro.php``` file which is a simple implementation of the [Coinbase Pro](https://pro.coinbase.com/) API written in PHP.
